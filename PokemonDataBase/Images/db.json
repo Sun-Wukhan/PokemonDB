@@ -1,0 +1,42 @@
+{
+    "people": [
+        { 
+            "id": 1,
+            "name": "navid", 
+            "age": 27, 
+            "username": "Sun-Wukhan",
+            "email": 
+                {
+                    "personal": "Navid_Khan@icloud.com",
+                    "work": "Navid.Khan@bondbrandloyalty.com", 
+                    "work2": "Navid.Khan@WOWinc.com",
+                    "work3": "Navid.Khan@FordCanada.com"
+                }
+        }, 
+        {
+            "id": 2,
+            "name": "mursa", 
+            "age": 72, 
+            "username": "Sun-fatty",
+            "email": 
+                {
+                    "personal": "Mursa_Lingling@icloud.com",
+                    "work": "Mursa.Lingling@bondbrandloyalty.com", 
+                    "work2": "Mursa.Lingling@WOWinc.com",
+                    "work3": "Mursa.Lingling@FordCanada.com"
+                }
+        }
+    ],
+    "addresses": [
+        {
+            "id": 1,
+            "street": "123",
+            "town": "pallet"
+        },
+        {
+            "id": 2,
+            "street": "456",
+            "town": "kanto"
+        }
+    ]
+}
